@@ -1,0 +1,1 @@
+# adduceb-google-blogger-template
