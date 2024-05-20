@@ -1,4 +1,4 @@
-# AdduceB Google Blogger Template
+# AdduceB Google Blogger Template/Theme
 ## License
 This project is licensed under the MIT License. 
 
