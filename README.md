@@ -1,4 +1,4 @@
-# BTauba Google Blogger Template/Theme
+# Paperpick Google Blogger Template/Theme
 ## License
 This project is licensed under the MIT License. 
 
