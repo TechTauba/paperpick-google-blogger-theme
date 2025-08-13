@@ -1,4 +1,4 @@
-# Paperpick Google Blogger Template/Theme
+# Paperpick Google Blogger Blog Theme/Template
 ## License
 This project is licensed under the MIT License. 
 
